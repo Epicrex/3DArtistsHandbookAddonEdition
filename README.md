@@ -1,4 +1,4 @@
 # Hi
--> Head on over to the Wiki tab or click here [Wiki](https://github.com/Epicrex/3DArtistsHandbookAddonEdition/wiki)
+-> Head on over to the Wiki tab or click [here](https://github.com/Epicrex/3DArtistsHandbookAddonEdition/wiki)
 
 -> Or go back to the [3DArtistsHandbook](https://github.com/Epicrex/3DArtistsHandbook/wiki)
